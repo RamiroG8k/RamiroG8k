@@ -56,13 +56,9 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
-
+ 📧 &emsp; Reach me anytime: ramiro.gik@gmail.com<br/><br/>
 </p>
 
-<br/>
-<br/>
 <br/>
 
 ## Use To Code
@@ -116,10 +112,10 @@
   <br/>
 </a>
 
+<!--
 
 ![RamiroG8k Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamiroG8k&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<!--
 **RamiroG8k/RamiroG8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
