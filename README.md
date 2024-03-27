@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
- <a href="https://RamiroG8k.com" target="blank">
+ <a href="https://www.g8k.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="RamiroG8k" />
  </a>
  <a href="https://linkedin.com/in/al-siam" target="_blank">
