@@ -26,7 +26,7 @@
  <a href="https://www.g8k.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="RamiroG8k" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/ramiro-mendez-g8k" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="RamiroG8k"/>
  </a>
  <!-- <a href="https://dev.to/RamiroG8k" target="_blank">
@@ -42,24 +42,8 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="RamiroG8k"  />
   </a> 
 </p>
+
 <br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="![image](https://github.com/RamiroG8k/RamiroG8k/assets/66712961/193e347b-41b5-4875-a46f-7b5a77b15220)">
- <source media="(prefers-color-scheme: light)" srcset="![image](https://github.com/RamiroG8k/RamiroG8k/assets/66712961/193e347b-41b5-4875-a46f-7b5a77b15220)">
- <img alt="YOUR-ALT-TEXT" src="![image](https://github.com/RamiroG8k/RamiroG8k/assets/66712961/193e347b-41b5-4875-a46f-7b5a77b15220)">
-</picture>
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ramiro.gik@gmail.com<br/><br/>
-</p>
-
-<br/>
 
 ## Use To Code
 
